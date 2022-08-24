@@ -1,4 +1,4 @@
-# flutter_ui_challenge
+# flutter_UI_challenge
 
 A new Flutter application.
 
